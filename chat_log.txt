@@ -1,0 +1,20 @@
+
+Siz: exit
+Agent: Xayr! Yaxshi kun tilayman.
+
+--- Yangi sessiya: 2025-09-24 16:20:33.799515 ---
+Siz: salom
+Agent: Salom! Qanday yordam bera olishim mumkin?
+Siz: xayr
+Agent: Xayr! Yaxshi kun tilayman.
+
+--- Yangi sessiya: 2025-09-24 16:22:58.221168 ---
+Siz: yordam
+Agent: Men sizga oddiy savollarda yordam bera olaman.
+Siz: hazil
+Agent: — Kompyuter nima uchun charchamaydi? 
+— Chunki u har doim 'rest' qiladi! 😄
+Siz: isming nima
+Agent: Kechirasiz, men buni tushunmadim. Boshqa soʻrab ko‘ring.
+Siz: xayr
+Agent: Xayr! Yaxshi kun tilayman.

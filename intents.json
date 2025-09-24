@@ -1,0 +1,60 @@
+{
+  "salom": {
+    "patterns": ["\\bsalom\\b", "\\bhello\\b", "\\bhi\\b", "\\bassalomu\\b"],
+    "responses": ["Salom! Qanday yordam bera olishim mumkin?", "Assalomu alaykum! Nima qilamiz?"]
+  },
+
+  "ism": {
+    "patterns": ["\\bsiz(ning)? ism(ingiz)?\\b", "\\bwho are you\\b", "\\bsen kimsan\\b"],
+    "responses": ["Men oddiy AI agentman.", "Meni AI agent deb atashingiz mumkin."]
+  },
+
+  "rahmat": {
+    "patterns": ["\\brahmat\\b", "\\bthanks\\b", "\\bthank you\\b"],
+    "responses": ["Marhamat!", "Yordam bera olganimdan xursandman!", "Doimo xursandman!"]
+  },
+
+  "xayr": {
+    "patterns": ["\\bxayr\\b", "\\bko'rishamiz\\b", "\\bbye\\b", "\\bexit\\b"],
+    "responses": ["Xayr! Yaxshi kun tilayman.", "Ko‘rishguncha!", "Sog‘ bo‘ling!"]
+  },
+
+  "yaxshi": {
+    "patterns": ["\\bqalay\\b", "\\bishlaringiz qalay\\b", "\\bqalesiz\\b", "\\bhow are you\\b"],
+    "responses": ["Yaxshi, rahmat! Siz qalaysiz?", "Ajoyibman! O‘zingizchi?", "Zo‘rman, sizchi?"]
+  },
+
+  "vaqt": {
+    "patterns": ["\\bsoat nechchi\\b", "\\btime\\b", "\\bhozirgi vaqt\\b"],
+    "responses": ["Hozirgi vaqtni bilish uchun kompyuteringizning soatini tekshirib ko‘ring.", "Men vaqtni bilmayman, lekin kompyuter soati yordam beradi."]
+  },
+
+  "ob_havo": {
+    "patterns": ["\\bob-havo\\b", "\\bob havo\\b", "\\bweather\\b"],
+    "responses": ["Ob-havo haqida aniq ayta olmayman, ammo siz Google’dan qidirishingiz mumkin.", "Hozirgi ob-havoni telefoningizdan tekshirish mumkin."]
+  },
+
+  "ism_sorash": {
+    "patterns": ["\\bsen(ing)? isming nima\\b", "\\bsening isming\\b", "\\bwhat is your name\\b"],
+    "responses": ["Meni 'AI Agent' deb chaqirishingiz mumkin.", "Mening ishm yo‘q, lekin agentman."]
+  },
+
+  "yordam": {
+    "patterns": ["\\byordam\\b", "\\bhelp\\b", "\\bqo'llab yubor\\b"],
+    "responses": ["Men sizga oddiy savollarda yordam bera olaman.", "Savolingizni yozing — javob berishga harakat qilaman."]
+  },
+
+  "hazil": {
+    "patterns": ["\\bhazil\\b", "\\bjoke\\b", "\\bkuldir\\b"],
+    "responses": ["— Kompyuter nima uchun charchamaydi? \n— Chunki u har doim 'rest' qiladi! 😄", 
+                  "— Dasturchi kofe ichmay qo‘ysa nima bo‘ladi? \n— Kod ishlashdan to‘xtaydi! ☕😂"]
+  },
+
+  "unknown": {
+    "patterns": [],
+    "responses": ["Kechirasiz, men buni tushunmadim. Boshqa soʻrab ko‘ring.",
+                  "Bu haqida bilmayman — boshqa savol bering.",
+                  "Aniq tushunmadim, qayta yozasizmi?"]
+  }
+}
+
